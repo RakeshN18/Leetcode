@@ -1,2 +1,2 @@
 # Leetcode
-These programs are something I donr from Leetcode
+These programs are something I done from Leetcode
